@@ -1,0 +1,82 @@
+[
+  {
+    "name": "ダンジョン飯",
+    "zh-Hans": "迷宫饭",
+    "homepage": "https://delicious-in-dungeon.com/",
+    "day": 4
+  },
+  {
+    "name": "俺だけレベルアップな件",
+    "zh-Hans": "我独自升级",
+    "homepage": "https://sololeveling-anime.net/",
+    "day": 6
+  },
+  {
+    "name": "わんだふるぷりきゅあ！",
+    "zh-Hans": "Wonderful光之美少女！",
+    "homepage": "https://www.toei-anim.co.jp/tv/precure/",
+    "day": 0
+  },
+  {
+    "name": "SHAMAN KING FLOWERS",
+    "zh-Hans": "通灵王 FLOWERS",
+    "homepage": "https://shamanking-project.com/",
+    "day": 2
+  },
+  {
+    "name": "ようこそ実力至上主義の教室へ 3rd Season",
+    "zh-Hans": "欢迎来到实力至上主义的教室 第3期",
+    "homepage": "http://you-zitsu.com/",
+    "day": 3,
+    "cover": "https://pbs.twimg.com/media/F_rVj3xaYAALcK7?format=jpg&name=medium"
+  },
+  {
+    "name": "弱キャラ友崎くん 2nd STAGE",
+    "zh-Hans": "弱势角色友崎君 2nd STAGE",
+    "homepage": "https://tomozaki-koushiki.com/",
+    "cover": "https://pbs.twimg.com/media/F9bPR26bsAAb__p?format=jpg&name=medium",
+    "day": 3
+  },
+  {
+    "name": "戦国妖狐",
+    "zh-Hans": "战国妖狐",
+    "homepage": "https://sengoku-youko.com/",
+    "cover": "https://sengoku-youko.com/dist/img/news/24/img02.jpg",
+    "day": 3
+  },
+  {
+    "name": "外科医エリーゼ",
+    "zh-Hans": "外科医生爱丽丝",
+    "homepage": "https://surgeon-elise.com/",
+    "day": 3,
+    "cover": "https://surgeon-elise.com/images/top/visual/003/v_001.jpg"
+  },
+  {
+    "name": "魔法少女にあこがれて",
+    "zh-Hans": "憧憬成为魔法少女",
+    "homepage": "https://mahoako-anime.com/",
+    "day": 3,
+    "cover": "https://mahoako-anime.com/assets/top/t1/vis2.webp"
+  },
+  {
+    "name": "30歳まで童貞だと魔法使いになれるらしい",
+    "zh-Hans": "到了30岁还是处男，似乎会变成魔法师",
+    "homepage": "https://cherimaho-anime.com/",
+    "day": 3,
+    "cover": "https://cherimaho-anime.com/assets/images/top/img_mv4.jpg"
+  },
+  {
+    "name": "異修羅",
+    "zh-Hans": "异修罗",
+    "homepage": "https://ishura-anime.com/",
+    "day": 3,
+    "cover": "https://ishura-anime.com/assets/top/t1/vis4.webp"
+  },
+  {
+    "name": "メタリックルージュ",
+    "zh-Hans": "金属口红",
+    "homepage": "https://metallicrouge.jp/",
+    "day": 3,
+    "cover": "https://metallicrouge.jp/assets/img/top/visual.jpg"
+  }
+]

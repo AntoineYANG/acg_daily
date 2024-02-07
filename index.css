@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.nextra-menu-desktop {
+  display: none !important;
+}
+
+nav > button[aria-label="Menu"] {
+  display: none !important;
+}
+
+main > .nextra-breadcrumb {
+  display: none !important;
+}
+
+.sr-only {
+  display: block;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+aside, nav {
+  background-color: rgba(255, 255, 255, 0.6);
+}
+
+footer {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+nav > div > ul + div {
+  display: none !important;
+}
+
+em {
+  /* Japanese style emphasize */
+  font-weight: 600;
+  color: #333;
+  text-shadow: 1px 1px 1px #fff;
+  position: relative;
+  padding-inline: 0.1em;
+  margin-inline: 0.2em;
+}
+
+em::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 0.4em;
+  /* pink-yellow */
+  background: linear-gradient(to right, #ff00ff, #ffff00);
+  background-size: 200% 200%;
+  border-radius: 2em 2em 10em 0;
+  z-index: -1;
+}
