@@ -3,7 +3,8 @@
     "name": "ダンジョン飯",
     "zh-Hans": "迷宫饭",
     "homepage": "https://delicious-in-dungeon.com/",
-    "day": 4
+    "day": 4,
+    "cover": "https://delicious-in-dungeon.com/assets/top/vis3.webp?v2"
   },
   {
     "name": "俺だけレベルアップな件",
@@ -78,5 +79,54 @@
     "homepage": "https://metallicrouge.jp/",
     "day": 3,
     "cover": "https://metallicrouge.jp/assets/img/top/visual.jpg"
+  },
+  {
+    "name": "うる星やつら 第2期",
+    "zh-Hans": "福星小子 第2期",
+    "homepage": "https://uy-allstars.com/",
+    "cover": "https://uy-allstars.com/_assets/images/top/fv/visual/webp/v_003@pc.webp?202309",
+    "day": 4
+  },
+  {
+    "name": "魔都精兵のスレイブ",
+    "zh-Hans": "魔都精兵的奴隶",
+    "homepage": "https://mabotai.jp/",
+    "cover": "https://mabotai.jp/img/home/visual_03.webp?2",
+    "day": 4
+  },
+  {
+    "name": "魔女と野獣",
+    "zh-Hans": "魔女与野兽",
+    "homepage": "https://www.tbs.co.jp/anime/majo/",
+    "cover": "https://www.tbs.co.jp/anime/majo/img/visual_key.jpg",
+    "day": 4
+  },
+  {
+    "name": "即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。",
+    "zh-Hans": "秒杀外挂太强了，异世界的家伙们根本就不是对手。",
+    "homepage": "https://sokushicheat-pr.com/",
+    "cover": "https://sokushicheat-pr.com/wp/wp-content/themes/sokushicheat_honban/images/kv1.jpg",
+    "day": 4
+  },
+  {
+    "name": "勇気爆発バーンブレイバーン",
+    "zh-Hans": "勇气爆发BANG BRAVERN",
+    "homepage": "https://bangbravern.com/",
+    "cover": "https://pbs.twimg.com/media/FxSL8EKacAEygpb?format=jpg&name=medium",
+    "day": 4
+  },
+  {
+    "name": "月刊モー想科学",
+    "zh-Hans": "月刊妄想科学",
+    "homepage": "https://moh-scientific-anime.com/",
+    "cover": "https://moh-scientific-anime.com/wp/wp-content/themes/mstheme3/img/mainimg2.jpg",
+    "day": 4
+  },
+  {
+    "name": "名湯『異世界の湯』開拓記 ～アラフォー温泉マニアの転生先は、のんびり温泉天国でした～",
+    "zh-Hans": "名汤《异世界之汤》开拓记 ～40岁左右的温泉迷的转生地是悠闲的温泉天国～",
+    "homepage": "https://isekainoyu.com/",
+    "cover": "https://isekainoyu.com/assets/img/main-visual-a.jpg",
+    "day": 4
   }
 ]
