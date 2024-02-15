@@ -1,8 +1,7 @@
-import type { DocsThemeConfig } from 'nextra-theme-docs';
 import ShareScreenshot from './components/share-screenshot';
 
 
-const config: DocsThemeConfig = {
+const config = {
   darkMode: false,
   primaryHue: 293,
   primarySaturation: 79,
