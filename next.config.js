@@ -1,7 +1,5 @@
-const withNextra = require('nextra')({
-  theme: 'nextra-theme-docs',
-  themeConfig: './theme.config.tsx',
-});
-
-
-module.exports = withNextra();
+const kyubi = require('kyubi-js');
+ 
+const nextConfig = kyubi();
+ 
+module.exports = nextConfig;

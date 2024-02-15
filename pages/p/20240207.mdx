@@ -68,7 +68,6 @@ import AnimeColumns from "../../components/anime-columns";
 
 import PhotoFrame from "../../components/photo-frame";
 import Mari from "../../public/img/satsuki_mari.jpg";
-import Image from "next/image";
 
 <div className="flex flex-col items-center my-4">
   <div className="max-w-[400px]">
@@ -83,12 +82,8 @@ import Image from "next/image";
         </p>
       </>}
     >
-      <Image
+      <img
         src={Mari}
-        alt=""
-        priority={false}
-        onDragStart={e => e.preventDefault()}
-        onContextMenu={e => e.preventDefault()}
       />
     </PhotoFrame>
   </div>
