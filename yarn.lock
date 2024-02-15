@@ -2004,10 +2004,10 @@ kind-of@^6.0.0, kind-of@^6.0.2:
   resolved "https://registry.yarnpkg.com/kind-of/-/kind-of-6.0.3.tgz#07c05034a6c349fa06e24fa35aa76db4580ce4dd"
   integrity sha512-dcS1ul+9tmeD95T+x28/ehLgd9mENa3LsvDTtzm3vyBEO7RPptvAD+t44WVXaUjTBRcrpFeFlC8WCruUR456hw==
 
-kyubi-js@^0.1.0-alpha.3:
-  version "0.1.0-alpha.3"
-  resolved "https://registry.yarnpkg.com/kyubi-js/-/kyubi-js-0.1.0-alpha.3.tgz#8e982da19801bb3f00b39579b45ec0eb5daaadc4"
-  integrity sha512-TvuPs+OxbclLlz0+N4hafW1tuqzNtiCb2NVVB1zPP5di0WqmXUclgzLgd8HiNjnawdlMpsLoNfbUjxJBFPFjbg==
+kyubi-js@^0.1.0-alpha.5:
+  version "0.1.0-alpha.5"
+  resolved "https://registry.yarnpkg.com/kyubi-js/-/kyubi-js-0.1.0-alpha.5.tgz#661f6946e25c3d7010d53611cd6e23c1a69620a5"
+  integrity sha512-PeBDrbg34OUvqA7jUiDJfBFqeyeNhCKnBLzZDs4YkTwEJJcpmahb4vEVtEPldkyVU0pjiiStzr+vJh7jXyw6Cw==
   dependencies:
     "@mdx-js/mdx" "^3.0.1"
     "@mdx-js/react" "^3.0.1"
